@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and exact relation of the affairs in Ireland particularly of the late K. James's letter to the French king, giving an account of his resolution to go back again to France : also Duke Schomberg's going on board, with the embarking of the forces under him for Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23263</idno><idno type="EEBO-CITATION">31355262</idno>
+  <idno type="VID">205852</idno>
+  <idno type="EEBO-PROQUEST">2240870290</idno>
+  
+            <idno type="STC">Wing F2277</idno>
+            <idno type="OCLC">31355262</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1739:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and exact relation of the affairs in Ireland particularly of the late K. James's letter to the French king, giving an account of his resolution to go back again to France : also Duke Schomberg's going on board, with the embarking of the forces under him for Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.R. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:205852:1"/>
+            <head>A Full and Exact RELATION Of the AFFAIRS in IRELAND, Particularly of the Late K. JAMES's Letter TO THE French King, GIVING An Account of his Resolution to go back again to <hi>France:</hi> Also Duke <hi>Schomberg</hi>'s going on Board, with the Embarking of the Forces under Him for <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>August</hi> the 13th.</date>
+               </dateline>
+            </opener>
+            <p>YEsterday Letters from <hi>Liverpool,</hi> they inform, That Duke <hi>Schomberg,</hi> on <hi>Thursday</hi> last went on Board, and all his Men Embarqued, being Twelve Thousand, he design<g ref="char:EOLhyphen"/>ing not to come Ashore till they were gone to the rest of the Forces which are to be taken in at <hi>High-Lake,</hi> and the Rende<g ref="char:EOLhyphen"/>vous will be at the Isle of <hi>Man.</hi> They hear that Col. <hi>Kirk</hi> has given the Command of a new-raised Regiment to Capt. <hi>Richards,</hi> his Majesty's Engineer, Gent. It was believed that the Duke would Sayl away that Evening, the Wind standing then for a fair Voyage towards <hi>Ireland.</hi> The Letters from <hi>Ireland</hi> to that place, say, That the Popish Army were in such a Consternation, that they might Land in any place of
+<pb facs="tcp:205852:2"/> the Country: That at <hi>High-Lake</hi> there were 300 Large and Small Vessels, 10 Men of War, and 40 Merchants Ships that were made for War; some carryed 20, some 30, some 40, Four 50 Guns a-peice. When the Letters came away, the Fleet Joyned them; so we hope in a very short time to hear of the happy Reducing of <hi>Ireland.</hi> 'Tis said, An Ex<g ref="char:EOLhyphen"/>press being sent to the Late King about the Raising of <hi>Derry-</hi>Seige, and the Relieving of that Place, he shook his Head, and said, <hi>We have made a fine Summers Work on't.</hi>
+            </p>
+            <p>He sent an Express to the King of <hi>France,</hi> the Contents whereof were as followeth, That <hi>Derry</hi> was Relieved, and the Irish Army Decamped from before it, to draw themselves into a Body, to oppose the sudden Descent on that Kingdom by Duke <hi>Schomberg;</hi> and pressing his most Christian Majesty either to send him immediately Succour, (for he began to question the Fidelity of the Irish Nobility) or granting Permission to Return to <hi>France:</hi> Which said Express was so surprizing, that the French King that Evening had a small Return of his Ague. The next day a Grand Council was held, and those Forces out of <hi>Italy,</hi> sent from the Dukes of <hi>Modena, Mantua, Savoy,</hi> &amp;c. were forthwith order'd on Board his Fleet at <hi>Brest</hi> for the As<g ref="char:EOLhyphen"/>sistance of King <hi>James.</hi> Madam <hi>d' Maintenox</hi> came to Condole the King; he told her, That St. <hi>Diabolo</hi> Water was so busie in his Thoughts, that he could have no Recess.</p>
+            <p>Letters from <hi>Plymouth</hi> of the 9<hi>th.</hi> say, That on <hi>Wednesday</hi> last, about Ten of the Clock in the Evening, they rcceiv'd an Express from <hi>London,</hi> with the Good News of the Raising the Siege of <hi>Derry;</hi> upon which all the Guns round the Cita<g ref="char:EOLhyphen"/>del were discharged, the Bells Rung all Night, Bonfires in every Street, with all other Demonstrations of Joy, suitable to the Occasion. Here is arrived his Majesties Ship the <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> Captain <hi>Dickinson</hi> Commander, the <hi>Essex,</hi> Capt. <hi>Hastings</hi> Commander, bound for the Coast of <hi>Ireland;</hi> and this Night came in the <hi>Expedition of London</hi> from <hi>Barbadoes, W. Killinkay</hi> Master of the Ship, bound for <hi>London;</hi> the <hi>Leghorn</hi> Merchant, the <hi>Friendship</hi> of <hi>New-England,</hi> the <hi>Loyal Stadd:</hi> Ships come from <hi>Barbadoes</hi> are, the <hi>Henry</hi> and <hi>William</hi> of <hi>London,</hi> the <hi>Isabella</hi> and <hi>Katherine</hi> of <hi>London,</hi> the <hi>Mary</hi> and <hi>Katherine</hi> of <hi>London,</hi> the <hi>James</hi> and <hi>Mary</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the <hi>Bordeaux</hi> Merchant of <hi>London,</hi> and the <hi>Batchellor</hi> of <hi>Bristol.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>A. R.</hi> at the <hi>Bell</hi> in <hi>Fleetstreet.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
